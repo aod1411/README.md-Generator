@@ -3,6 +3,8 @@
   ## Description
 
   This is a command-line application that creates consistent and professional README.md files.
+  
+  ![VIDEO OF PROJECT]("./README.md-Generator.mp4")
 
   ## Table of Contents
 
