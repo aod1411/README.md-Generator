@@ -1,8 +1,8 @@
-# ReadMe Generator
+# README.md Generator
 
   ## Description
 
-  This is a command-line application to create consistent and professional readme files.
+  This is a command-line application that creates consistent and professional README.md files.
 
   ## Table of Contents
 
@@ -22,10 +22,10 @@
   npm i
 
   ## Usage
-This is an open-source project so feel free to use.
+Just install using the command above and create your own customized README.md files!
 
   ## Contributing
-  Feel free to submit pull requests if you would like to suggest changes!
+  Please submit pull requests and become part of teh team.
 
   ## Tests
 
