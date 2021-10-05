@@ -4,7 +4,7 @@
 
   This is a command-line application that creates consistent and professional README.md files.
   
-  ![VIDEO OF PROJECT]("./README.md-Generator.mp4")
+  ![VIDEO OF PROJECT]https://watch.screencastify.com/v/nuJSq1hP6mLTiPROn83Y
 
   ## Table of Contents
 
